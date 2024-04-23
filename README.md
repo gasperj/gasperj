@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gasperj
 - 👀 I’m interested in PowerShell, Terraform, static website pipelines
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning Astro
 - 💞️ I’m looking to collaborate on Microsoft 365 servcies
 
 <!---
